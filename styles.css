@@ -1,0 +1,27 @@
+/* static/styles.css */
+
+.navbar {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+
+.container {
+    margin: 20px auto;
+    max-width: 960px;
+    padding: 20px;
+}
+
+.home {
+    text-align: center;
+}
+
+.headline {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 20px;
+    margin-top: 20px;
+}
