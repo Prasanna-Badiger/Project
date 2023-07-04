@@ -1,1 +1,7 @@
-# Project
+The "FinEdge" website is a single-page website developed using the Flask framework. It is designed for a fictitious fintech startup dedicated to revolutionizing cross-border payments. The website aims to provide information about the startup and its services to individuals and businesses interested in seamless transactions across geographical boundaries
+The website consists of several components:
+Navigation Bar: The website features a navigation bar at the top that allows users to navigate to different sections of the website, including Home, About Us, Services, and Contact Us.
+Home Section: The landing section of the website showcases a captivating headline and a brief description of "FinEdge." This section aims to capture the attention of visitors and provide an overview of the startup's vision.
+About Us Section: This section provides a concise background about "FinEdge." It highlights the startup's mission, values, and goals, giving visitors a deeper understanding of the company's purpose and dedication to revolutionizing cross-border payments.
+Services Section: The Services section showcases at least three different financial services offered by "FinEdge." Each service is accompanied by a brief description and an appropriate image/icon. Examples of services include individual money transfers, business payments, and real-time payment tracking. This section aims to communicate the range of services provided by the startup and the value it brings to its customers.
+Contact Us Section: The website includes a simple contact form with fields for name, email, and a message. Although the form is not functional in this example, it provides visitors with a means to get in touch with the company for inquiries or further information.
